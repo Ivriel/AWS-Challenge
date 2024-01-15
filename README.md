@@ -2,7 +2,7 @@
 Proyek slicing untuk lomba AWS Challenge
 ### Informasi
 Hari/Tanggal : Sabtu / 13 Januari 2024\
-Waktu pengerjaan : 4 Jam (08.00 WIB - 12.00 WIB)\
+Waktu pengerjaan : 4 Jam (08.30 WIB - 12.00 WIB)\
 Tempat: Online
 ### Detail
 Dibuat dengan ukuran laptop dan tidak responsive. Buka di browser chrome\
