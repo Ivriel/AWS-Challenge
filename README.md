@@ -7,7 +7,7 @@ Tempat: Online
 ### Detail
 Dibuat dengan ukuran laptop dan tidak responsive. Buka di browser chrome\
 Kode soal nomor 02\
-Babak penyisihan\
+Babak penyisihan
 ### Kendala:
 Panitia pengawas tidak membagikan soal di chat zoom secara tepat waktu (telat 30 menit)\
 Sehingga jam kerja jadi terpotong dan tidak sempat untuk membuat bagian footer\
